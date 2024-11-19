@@ -13,7 +13,7 @@ Finalmente deberá esperar su ejecución para poder observar los resultados, si 
 
 
 Tuvimos problemas para adjuntar ambos códigos pero aquí están los repositorios.
+
 https://github.com/cristoferapr/cflp-problem.git
+https://github.com/Gabossj/Laboratorio-IOA-Tarea-2.git (UTILIZAR CÓDIGO DE LA RAMA MAIN SI ES QUE LO VEN PAPITOS, respecto a este código las instancias grandes no pudieron ser almacenadas) :c
 
-
-https://github.com/Gabossj/Laboratorio-IOA-Tarea-2.git
